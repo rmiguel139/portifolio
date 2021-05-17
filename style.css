@@ -1,0 +1,42 @@
+<style>
+        h2 {
+            color: aquamarine;
+        }
+        body{;
+            background-image : url(gettyimages-149484984-640x640.jpg) ;
+        }
+        p, h1 , ul{
+            color: aquamarine;
+        }
+        .botao{
+            color: rgb(36, 48, 87);
+            text-decoration:none ;
+            background-color: aquamarine;
+            border-radius: 5px;
+            font-size: 25px;
+        }        
+        img{
+            border-radius: 10px;%;
+            
+        } body {
+            overflow: auto;
+        } .bot { 
+            color: aquamarine;
+            
+             font-size: 30px;
+        }
+        
+        h3 {
+            color: aquamarine;
+        }
+        a {
+            font-size: 30px;
+        }
+        .lista-skills{
+            font-size: 20px;
+        }
+     h2 {
+     color: aquamarine;
+    }
+ 
+    </style>
