@@ -14,6 +14,9 @@
             background-color: aquamarine;
             border-radius: 5px;
             font-size: 25px;
+            border-color: rgb(12, 72, 87);
+            border-width: 2px;
+            border-style: solid;
         }        
         img{
             border-radius: 10px;%;
