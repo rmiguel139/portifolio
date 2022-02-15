@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+.carro2 {
+  height: 100px;
+  width: 100px;
+}
+
+button { 
+  width: 30;
+  height : 30px;
+  margin-top: 90px;
+}
+
+.carro1{
+  height: 100px;
+  width: 100px;
+}
+
+button{
+  align-self: center;
+  width: 50px;
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(190, 177, 247);
+}
+
+.App-link {
+  color: #fdfdfd;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
